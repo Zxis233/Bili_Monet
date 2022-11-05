@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<type id="0x04">
+    <entry id="0x7f04018e" name="colorControlActivated" />
+    <entry id="0x7f0401a1" name="colorSwitchThumbNormal" />
+</type>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string name="count_down_snack_bar_count_down_default_color_str">@android:color/system_accent1_600</string>
+</resources>

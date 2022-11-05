@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<type id="0x12">
+    <entry id="0x7f120381" name="IpDressTabHighlightText" />
+    <entry id="0x7f120429" name="MallHomeTabSelected" />
+    <entry id="0x7f1207fc" name="UpperPublishSwitch" />
+</type>

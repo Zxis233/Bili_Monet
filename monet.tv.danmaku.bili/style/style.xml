@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <style name="IpDressTabHighlightText" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16.0dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/system_accent1_600</item>
+    </style>
+    <style name="MallHomeTabSelected" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">13.0dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/system_accent1_600</item>
+    </style>
+    <style name="UpperPublishSwitch" parent="@7f1205d4">
+        <item name="android:colorForeground">#999999</item>
+        <item name="colorControlActivated">@android:color/system_accent1_600</item>
+        <item name="colorSwitchThumbNormal">#ffffff</item>
+    </style>
+</resources>
